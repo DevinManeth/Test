@@ -6,6 +6,8 @@ public class Main{
 
 		System.out.println("Login");
 		System.out.println("omal");
+		System.out.println("signout");
+
 
 
                
